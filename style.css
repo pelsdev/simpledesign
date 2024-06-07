@@ -1,0 +1,38 @@
+body{
+background-color: purple;
+}
+
+button{
+    background-color: pink;
+    color: #fcdc00;
+    border-radius: 50%;
+    width: 85px;
+    height: 85px;
+    text-align: left;
+    margin-left: 0.2rem;
+  }
+  .butto{
+    padding-left: 0%;
+  }
+  .butt {
+    padding-left: 15.5rem;
+  }
+  .but{
+    padding-left: 31rem;
+  }
+  .bu{
+    padding-left: 46.5rem;
+  }
+  .b{
+    padding-left: 62rem;
+  }
+  .unique{
+    padding-left: 77.5rem;
+  }
+  
+  button:hover{
+    background-color: pink;
+    color: black;
+    cursor: pointer;
+  }
+  
