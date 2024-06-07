@@ -14,7 +14,7 @@ button{
   .butto{
     padding-left: 0%;
   }
-  .butt {
+  .butt{
     padding-left: 15.5rem;
   }
   .but{
@@ -34,5 +34,7 @@ button{
     background-color: pink;
     color: black;
     cursor: pointer;
+    filter: blur(15rem);
+    tab-size: 3rem;
   }
   
